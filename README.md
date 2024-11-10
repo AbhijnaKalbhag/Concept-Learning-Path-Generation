@@ -1,8 +1,5 @@
-# Concept-Learning-Path-Generation
-*Behind and Beyond*
-
-
 # Concept Learning Path Generation: Behind and Beyond 📚🔍
+*Behind and Beyond*
 
 ## Description
 
